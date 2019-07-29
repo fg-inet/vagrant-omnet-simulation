@@ -24,4 +24,4 @@ then
    helpFunction
 fi
 
-opp_runall -b1 -j$numThreads opp_run -u Cmdenv -f omnetpp.ini -c $configName -m -n .:../src:../../omnetpp-5.1/samples/inet/examples:../../omnetpp-5.1/samples/inet/src:../../omnetpp-5.1/samples/inet/tutorials:../../omnetpp-5.1/samples/simulte-0.9.1/simulations:../../omnetpp-5.1/samples/simulte-0.9.1/src --image-path=../images:../../omnetpp-5.1/samples/simulte-0.9.1/images -l ../../omnetpp-5.1/samples/inet/src/INET -l ../../omnetpp-5.1/samples/simulte-0.9.1/src/lte
+opp_runall -b1 -j$numThreads opp_run -u Cmdenv -f omnetpp.ini -c $configName -m -n .:../src:../../omnetpp-5.1/samples/inet/examples:../../omnetpp-5.1/samples/inet/src:../../omnetpp-5.1/samples/inet/tutorials:../../omnetpp-5.1/samples/simulte/simulations:../../omnetpp-5.1/samples/simulte/src --image-path=../images:../../omnetpp-5.1/samples/simulte/images -l ../../omnetpp-5.1/samples/inet/src/INET -l ../../omnetpp-5.1/samples/simulte/src/lte
