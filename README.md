@@ -1,6 +1,7 @@
 # Estimating Video Streaming QoE in the 5G Architecture Using Machine Learning - Simulation Environment
 
-This is the simulation environment used in the paper:<br>
+This is the simulation environment used in the paper:
+
 Schwarzmann, S., Cassales Marquezan, C., Bosk, M., Liu, H., Trivisonno, R., & Zinner, T. (2019, October). Estimating Video Streaming QoE in the 5G Architecture Using Machine Learning. In <i>Proceedings of the 4th Internet-QoE Workshop on QoE-based Analysis and Management of Data Communication Networks</i> (pp. 7-12). ACM.
 
 ## Requirements
