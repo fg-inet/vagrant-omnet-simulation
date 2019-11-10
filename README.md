@@ -1,7 +1,7 @@
-# Vagrant box for simulation with Omnet++ and SimuLTE
+# Estimating Video Streaming QoE in the 5G Architecture Using Machine Learning - Simulation Environment
 
-A readme for vagrant box with Omnet++ simulation setup for "Estimating Video Streaming QoE in the 5G Architecture Using
-Machine Learning" project.
+This is the simulation environment used in the paper:<br>
+Schwarzmann, S., Cassales Marquezan, C., Bosk, M., Liu, H., Trivisonno, R., & Zinner, T. (2019, October). Estimating Video Streaming QoE in the 5G Architecture Using Machine Learning. In <i>Proceedings of the 4th Internet-QoE Workshop on QoE-based Analysis and Management of Data Communication Networks</i> (pp. 7-12). ACM.
 
 ## Requirements
 Vagrant - Tested with version 2.2.4 (available at: https://www.vagrantup.com/downloads.html)
